@@ -11,6 +11,12 @@ sites:
     url: https://gitlab.ayi-asociados.com/
   - name: Academy
     url: https://ayi.academy/
+  - name:  Jira PNA
+    url: https://jira.ayi-asociados.com/
+  - name: AYIGROUP
+    url: https://ayi.group/
+  - name: Inmuta
+    url: https://inmuta.com/    
 
     
 assignees:
