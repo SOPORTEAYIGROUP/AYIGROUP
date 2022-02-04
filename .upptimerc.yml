@@ -9,14 +9,16 @@ sites:
     url: http://caos.ayi-asociados.com/
   - name: Gitlab
     url: https://gitlab.ayi-asociados.com/
-  - name: Academy
+  - name: Ayi Academy
     url: https://ayi.academy/
-  - name:  Jira PNA
+  - name:  Jira Ayigroup
     url: https://jira.ayi-asociados.com/
-  - name: AYIGROUP
+  - name: Web Corporativa
     url: https://ayi.group/
-  - name: Inmuta
-    url: https://inmuta.com/    
+  - name: Web Inmuta
+    url: https://inmuta.com/
+  - name: Web Interconomy
+    url: http://interconomy.biz/
 
     
 assignees:
