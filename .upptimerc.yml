@@ -11,8 +11,6 @@ sites:
     url: https://gitlab.ayi-asociados.com/
   - name: Academy
     url: https://ayi.academy/
-  - name: Academy
-    url: https://ayi.academy/
   - name: Jira PNA
     URL: https://jira.ayi-asociados.com/
   - name: AYIGOUP
