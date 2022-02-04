@@ -3,14 +3,14 @@ owner: SOPORTEAYIGROUP # Your GitHub organization or username, where this reposi
 repo: AYIGROUP # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CAOSBI
+    url: https://caosbi.ayi-asociados.com/
+  - name: CAOS
+    url: http://caos.ayi-asociados.com/
+  - name: Gitlab
+    url: https://gitlab.ayi-asociados.com/
+  - name: Academy
+    url: https://ayi.academy/
     
 assignees:
  -SOPORTEAYIGROUP
