@@ -19,9 +19,6 @@ sites:
     url: https://inmuta.com/
   - name: Web Interconomy
     url: https://interconomy.biz/
-  - name: Prueba Slack
-    url: https://pruebaslack.holamundo.com/
-
     
 assignees:
   - SOPORTEAYIGROUP
