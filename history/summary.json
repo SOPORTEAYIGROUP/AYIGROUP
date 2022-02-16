@@ -4,10 +4,10 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://favicons.githubusercontent.com/caosbi.ayi-asociados.com",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
     "time": 1143,
@@ -16,6 +16,7 @@
     "timeMonth": 1143,
     "timeYear": 1143,
     "dailyMinutesDown": {
+      "2022-02-16": 3,
       "2022-02-14": 43
     }
   },
@@ -24,46 +25,50 @@
     "url": "http://caos.ayi-asociados.com/",
     "icon": "https://favicons.githubusercontent.com/caos.ayi-asociados.com",
     "slug": "caos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 777,
     "timeDay": 721,
     "timeWeek": 715,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 3
+    }
   },
   {
     "name": "Gitlab Ayigroup",
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://favicons.githubusercontent.com/gitlab.ayi-asociados.com",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1506,
     "timeDay": 1301,
     "timeWeek": 1342,
     "timeMonth": 1506,
     "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 2
+    }
   },
   {
     "name": "Ayi Academy",
     "url": "https://ayi.academy/",
     "icon": "https://favicons.githubusercontent.com/ayi.academy",
     "slug": "ayi-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1061,
@@ -71,16 +76,18 @@
     "timeWeek": 1021,
     "timeMonth": 1061,
     "timeYear": 1061,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 1
+    }
   },
   {
     "name": "Jira Ayigroup",
     "url": "https://jira.ayi-asociados.com/",
     "icon": "https://favicons.githubusercontent.com/jira.ayi-asociados.com",
     "slug": "jira-ayigroup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +96,9 @@
     "timeWeek": 1099,
     "timeMonth": 1184,
     "timeYear": 1184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "Web Corporativa",
