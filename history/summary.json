@@ -44,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.ayi-asociados.com",
     "slug": "gitlab-ayigroup",
     "status": "up",
-    "uptime": "95.98%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.54%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.00%",
     "time": 1573,
     "timeDay": 1369,
     "timeWeek": 1704,
@@ -100,9 +100,9 @@
     "url": "https://ayi.group/",
     "icon": "https://favicons.githubusercontent.com/ayi.group",
     "slug": "web-corporativa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 1430,
     "timeMonth": 1394,
     "timeYear": 1394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "Web Inmuta",
