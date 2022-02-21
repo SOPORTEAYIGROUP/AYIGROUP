@@ -100,19 +100,19 @@
     "url": "https://ayi.group/",
     "icon": "https://favicons.githubusercontent.com/ayi.group",
     "slug": "web-corporativa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 1354,
-    "timeWeek": 1430,
-    "timeMonth": 1394,
-    "timeYear": 1394,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1403,
+    "timeDay": 1544,
+    "timeWeek": 1468,
+    "timeMonth": 1403,
+    "timeYear": 1403,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 27
     }
   },
   {
