@@ -78,9 +78,9 @@
     "url": "https://ayi.academy/",
     "icon": "https://favicons.githubusercontent.com/ayi.academy",
     "slug": "ayi-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
@@ -90,6 +90,7 @@
     "timeMonth": 1030,
     "timeYear": 1109,
     "dailyMinutesDown": {
+      "2022-04-12": 0,
       "2022-03-10": 110,
       "2022-03-06": 376
     }
@@ -161,11 +162,11 @@
     "icon": "https://favicons.githubusercontent.com/interconomy.biz",
     "slug": "web-interconomy",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 1318,
     "timeDay": 1548,
     "timeWeek": 1548,
