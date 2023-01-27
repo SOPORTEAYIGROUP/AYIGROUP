@@ -5,6 +5,8 @@ repo: AYIGROUP # The name of this repository
 sites:
   - name: Internet EPEC
     url: 190.96.117.110
+  - name: Internet Claro
+    url: 192.168.10.13
   - name: CAOS
     url: http://caos.ayi-asociados.com/
   - name: Gitlab Ayigroup
