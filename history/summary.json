@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "down",
-    "uptime": "64.64%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "64.64%",
-    "uptimeMonth": "64.64%",
-    "uptimeYear": "64.64%",
+    "uptime": "42.58%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "42.58%",
+    "uptimeMonth": "42.58%",
+    "uptimeYear": "42.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-27": 0
+      "2023-01-27": 1
     }
   },
   {
