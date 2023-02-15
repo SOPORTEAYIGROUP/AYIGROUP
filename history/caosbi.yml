@@ -1,7 +1,7 @@
 url: https://caosbi.ayi-asociados.com/
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2023-02-14T23:20:05.956Z
+status: down
+code: 502
+responseTime: 3671
+lastUpdated: 2023-02-15T03:43:45.556Z
 startTime: Fri Feb 04 2022 16:51:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
