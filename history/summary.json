@@ -117,18 +117,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayi.academy.ico",
     "slug": "ayi-academy",
     "status": "down",
-    "uptime": "97.35%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "97.17%",
+    "uptime": "97.33%",
+    "uptimeDay": "87.11%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "97.15%",
     "time": 1927,
     "timeDay": 3636,
     "timeWeek": 1433,
     "timeMonth": 1954,
     "timeYear": 2004,
     "dailyMinutesDown": {
-      "2023-03-01": 104,
+      "2023-03-02": 67,
+      "2023-03-01": 119,
       "2023-02-06": 773,
       "2023-02-05": 1440,
       "2023-02-04": 227,
@@ -398,8 +399,7 @@
       "2022-03-21": 65,
       "2022-03-15": 38,
       "2022-03-10": 112,
-      "2022-03-07": 74,
-      "2022-03-02": 41
+      "2022-03-07": 74
     }
   }
 ]
