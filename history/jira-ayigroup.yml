@@ -1,7 +1,7 @@
 url: https://jira.ayi-asociados.com/
-status: up
-code: 200
-responseTime: 1326
-lastUpdated: 2023-10-09T23:16:52.349Z
+status: down
+code: 502
+responseTime: 19055
+lastUpdated: 2023-10-10T02:28:45.120Z
 startTime: 2022-02-04T18:54:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
