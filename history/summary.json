@@ -11,9 +11,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.35%",
     "time": 1963,
-    "timeDay": 1720,
-    "timeWeek": 2403,
-    "timeMonth": 2364,
+    "timeDay": 1725,
+    "timeWeek": 2329,
+    "timeMonth": 2358,
     "timeYear": 1963,
     "dailyMinutesDown": {
       "2023-11-28": 41,
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.20%",
     "time": 1023,
-    "timeDay": 5932,
-    "timeWeek": 3635,
-    "timeMonth": 2246,
+    "timeDay": 5935,
+    "timeWeek": 3628,
+    "timeMonth": 2245,
     "timeYear": 1037,
     "dailyMinutesDown": {
       "2023-12-06": 18,
@@ -74,8 +74,7 @@
       "2023-01-27": 52,
       "2023-01-09": 16,
       "2022-12-12": 58,
-      "2022-12-08": 914,
-      "2022-12-07": 239
+      "2022-12-08": 914
     }
   },
   {
@@ -84,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
     "status": "down",
-    "uptime": "87.24%",
+    "uptime": "87.23%",
     "uptimeDay": "54.00%",
     "uptimeWeek": "38.57%",
     "uptimeMonth": "40.46%",
-    "uptimeYear": "76.57%",
-    "time": 1758,
-    "timeDay": 329,
-    "timeWeek": 374,
-    "timeMonth": 375,
-    "timeYear": 1589,
+    "uptimeYear": "76.55%",
+    "time": 1757,
+    "timeDay": 340,
+    "timeWeek": 377,
+    "timeMonth": 378,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2023-12-06": 612,
+      "2023-12-07": 51,
+      "2023-12-06": 662,
       "2023-12-05": 665,
       "2023-12-04": 663,
       "2023-12-03": 1440,
@@ -250,10 +250,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
     "time": 1780,
-    "timeDay": 1170,
-    "timeWeek": 1125,
-    "timeMonth": 1079,
-    "timeYear": 1773,
+    "timeDay": 1223,
+    "timeWeek": 1124,
+    "timeMonth": 1076,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2023-08-24": 118,
       "2023-04-18": 207,
@@ -271,8 +271,7 @@
       "2022-12-17": 103,
       "2022-12-13": 42,
       "2022-12-10": 69,
-      "2022-12-08": 401,
-      "2022-12-07": 220
+      "2022-12-08": 401
     }
   },
   {
@@ -287,8 +286,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.20%",
     "time": 2417,
-    "timeDay": 1204,
-    "timeWeek": 6523,
+    "timeDay": 1159,
+    "timeWeek": 6520,
     "timeMonth": 5916,
     "timeYear": 2707,
     "dailyMinutesDown": {
@@ -314,8 +313,7 @@
       "2023-02-04": 226,
       "2023-01-27": 50,
       "2023-01-21": 27,
-      "2022-12-08": 870,
-      "2022-12-07": 236
+      "2022-12-08": 870
     }
   },
   {
@@ -329,10 +327,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.80%",
-    "time": 1253,
-    "timeDay": 1047,
-    "timeWeek": 1076,
-    "timeMonth": 1309,
+    "time": 1252,
+    "timeDay": 1029,
+    "timeWeek": 1075,
+    "timeMonth": 1307,
     "timeYear": 1169,
     "dailyMinutesDown": {
       "2023-11-27": 66,
@@ -364,9 +362,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.50%",
     "time": 1080,
-    "timeDay": 970,
-    "timeWeek": 996,
-    "timeMonth": 1126,
+    "timeDay": 952,
+    "timeWeek": 992,
+    "timeMonth": 1124,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2023-11-28": 19,
@@ -399,11 +397,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.62%",
-    "time": 1362,
-    "timeDay": 1035,
-    "timeWeek": 1368,
-    "timeMonth": 1678,
-    "timeYear": 1372,
+    "time": 1363,
+    "timeDay": 1250,
+    "timeWeek": 1362,
+    "timeMonth": 1674,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2023-11-28": 19,
       "2023-11-27": 45,
@@ -418,8 +416,7 @@
       "2023-05-30": 92,
       "2023-04-23": 42,
       "2023-03-31": 18,
-      "2022-12-08": 863,
-      "2022-12-07": 184
+      "2022-12-08": 863
     }
   },
   {
@@ -434,8 +431,8 @@
     "uptimeMonth": "98.63%",
     "uptimeYear": "98.87%",
     "time": 3885,
-    "timeDay": 6741,
-    "timeWeek": 5518,
+    "timeDay": 6713,
+    "timeWeek": 5510,
     "timeMonth": 4999,
     "timeYear": 4308,
     "dailyMinutesDown": {
@@ -520,8 +517,7 @@
       "2022-12-19": 29,
       "2022-12-13": 31,
       "2022-12-12": 23,
-      "2022-12-08": 963,
-      "2022-12-07": 239
+      "2022-12-08": 963
     }
   }
 ]
