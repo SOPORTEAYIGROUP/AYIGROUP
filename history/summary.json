@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.12%",
     "time": 1989,
-    "timeDay": 1780,
-    "timeWeek": 2165,
-    "timeMonth": 2093,
+    "timeDay": 1699,
+    "timeWeek": 2130,
+    "timeMonth": 2078,
     "timeYear": 1989,
     "dailyMinutesDown": {
       "2024-01-02": 86,
@@ -56,10 +56,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.12%",
     "time": 1031,
-    "timeDay": 766,
-    "timeWeek": 1095,
-    "timeMonth": 869,
-    "timeYear": 1013,
+    "timeDay": 786,
+    "timeWeek": 1099,
+    "timeMonth": 867,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2024-01-02": 86,
       "2023-12-18": 810,
@@ -76,8 +76,7 @@
       "2023-02-16": 18,
       "2023-02-06": 863,
       "2023-02-05": 1440,
-      "2023-02-04": 229,
-      "2023-01-27": 52
+      "2023-02-04": 229
     }
   },
   {
@@ -86,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
     "status": "down",
-    "uptime": "88.41%",
+    "uptime": "88.40%",
     "uptimeDay": "54.34%",
     "uptimeWeek": "38.63%",
     "uptimeMonth": "38.90%",
-    "uptimeYear": "77.11%",
-    "time": 1587,
-    "timeDay": 303,
-    "timeWeek": 947,
-    "timeMonth": 890,
-    "timeYear": 868,
+    "uptimeYear": "77.10%",
+    "time": 1585,
+    "timeDay": 297,
+    "timeWeek": 945,
+    "timeMonth": 897,
+    "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-01-26": 609,
+      "2024-01-27": 48,
+      "2024-01-26": 657,
       "2024-01-25": 659,
       "2024-01-24": 661,
       "2024-01-23": 667,
@@ -248,10 +248,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "98.63%",
-    "time": 1715,
-    "timeDay": 1255,
-    "timeWeek": 1179,
-    "timeMonth": 1573,
+    "time": 1716,
+    "timeDay": 1339,
+    "timeWeek": 1183,
+    "timeMonth": 1577,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2024-01-19": 265,
@@ -266,8 +266,7 @@
       "2023-03-01": 119,
       "2023-02-06": 773,
       "2023-02-05": 1440,
-      "2023-02-04": 227,
-      "2023-01-27": 50
+      "2023-02-04": 227
     }
   },
   {
@@ -282,9 +281,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.09%",
     "time": 2578,
-    "timeDay": 1174,
-    "timeWeek": 1264,
-    "timeMonth": 1227,
+    "timeDay": 1187,
+    "timeWeek": 1259,
+    "timeMonth": 1222,
     "timeYear": 2834,
     "dailyMinutesDown": {
       "2024-01-05": 18,
@@ -311,8 +310,7 @@
       "2023-03-01": 70,
       "2023-02-06": 773,
       "2023-02-05": 1440,
-      "2023-02-04": 226,
-      "2023-01-27": 50
+      "2023-02-04": 226
     }
   },
   {
@@ -326,11 +324,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1185,
-    "timeDay": 1038,
-    "timeWeek": 1217,
-    "timeMonth": 1171,
-    "timeYear": 1129,
+    "time": 1184,
+    "timeDay": 1151,
+    "timeWeek": 1216,
+    "timeMonth": 1166,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2023-11-27": 66,
       "2023-11-25": 24,
@@ -360,9 +358,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1102,
-    "timeDay": 917,
-    "timeWeek": 1114,
-    "timeMonth": 1067,
+    "timeDay": 1043,
+    "timeWeek": 1113,
+    "timeMonth": 1061,
     "timeYear": 1110,
     "dailyMinutesDown": {
       "2023-12-18": 198,
@@ -388,15 +386,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/interconomy.biz.ico",
     "slug": "web-interconomy",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1388,
-    "timeDay": 1197,
-    "timeWeek": 1426,
-    "timeMonth": 1358,
+    "time": 1389,
+    "timeDay": 1363,
+    "timeWeek": 1424,
+    "timeMonth": 1348,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2023-11-28": 19,
@@ -426,9 +424,9 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.78%",
     "time": 4366,
-    "timeDay": 1686,
+    "timeDay": 1601,
     "timeWeek": 3354,
-    "timeMonth": 4413,
+    "timeMonth": 4410,
     "timeYear": 4463,
     "dailyMinutesDown": {
       "2024-01-21": 53,
@@ -515,8 +513,7 @@
       "2023-02-05": 1439,
       "2023-02-04": 226,
       "2023-02-03": 20,
-      "2023-01-30": 29,
-      "2023-01-27": 53
+      "2023-01-30": 29
     }
   }
 ]
