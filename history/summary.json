@@ -11,10 +11,10 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.03%",
     "time": 1989,
-    "timeDay": 2096,
-    "timeWeek": 2020,
-    "timeMonth": 2055,
-    "timeYear": 1995,
+    "timeDay": 2038,
+    "timeWeek": 2044,
+    "timeMonth": 2065,
+    "timeYear": 1996,
     "dailyMinutesDown": {
       "2024-01-31": 500,
       "2024-01-02": 86,
@@ -41,8 +41,7 @@
       "2023-03-23": 16,
       "2023-03-22": 17,
       "2023-03-01": 27,
-      "2023-02-05": 1390,
-      "2023-02-04": 230
+      "2023-02-05": 1390
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.04%",
     "time": 1033,
-    "timeDay": 833,
-    "timeWeek": 792,
-    "timeMonth": 871,
+    "timeDay": 711,
+    "timeWeek": 787,
+    "timeMonth": 870,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2024-01-31": 499,
@@ -77,8 +76,7 @@
       "2023-03-01": 106,
       "2023-02-16": 18,
       "2023-02-06": 863,
-      "2023-02-05": 1440,
-      "2023-02-04": 229
+      "2023-02-05": 1440
     }
   },
   {
@@ -87,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
     "status": "down",
-    "uptime": "88.52%",
-    "uptimeDay": "54.09%",
+    "uptime": "88.40%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "38.69%",
-    "uptimeMonth": "38.90%",
-    "uptimeYear": "77.10%",
-    "time": 1561,
-    "timeDay": 353,
-    "timeWeek": 298,
-    "timeMonth": 882,
-    "timeYear": 708,
+    "uptimeMonth": "37.13%",
+    "uptimeYear": "76.83%",
+    "time": 1548,
+    "timeDay": 137,
+    "timeWeek": 297,
+    "timeMonth": 759,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2024-02-03": 47,
+      "2024-02-04": 52,
+      "2024-02-03": 1440,
       "2024-02-02": 661,
       "2024-02-01": 662,
       "2024-01-31": 657,
@@ -245,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayi.academy.ico",
     "slug": "ayi-academy",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.06%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.55%",
-    "time": 1724,
-    "timeDay": 1363,
-    "timeWeek": 1503,
-    "timeMonth": 1686,
-    "timeYear": 1294,
+    "time": 1725,
+    "timeDay": 1398,
+    "timeWeek": 1371,
+    "timeMonth": 1691,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2024-01-31": 498,
       "2024-01-19": 265,
@@ -268,8 +267,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 119,
       "2023-02-06": 773,
-      "2023-02-05": 1440,
-      "2023-02-04": 227
+      "2023-02-05": 1440
     }
   },
   {
@@ -284,9 +282,9 @@
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.99%",
     "time": 2722,
-    "timeDay": 7121,
-    "timeWeek": 6100,
-    "timeMonth": 3330,
+    "timeDay": 1130,
+    "timeWeek": 5624,
+    "timeMonth": 3331,
     "timeYear": 3013,
     "dailyMinutesDown": {
       "2024-01-31": 497,
@@ -314,8 +312,7 @@
       "2023-03-11": 17,
       "2023-03-01": 70,
       "2023-02-06": 773,
-      "2023-02-05": 1440,
-      "2023-02-04": 226
+      "2023-02-05": 1440
     }
   },
   {
@@ -329,9 +326,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1182,
-    "timeDay": 1312,
-    "timeWeek": 1186,
+    "time": 1181,
+    "timeDay": 1038,
+    "timeWeek": 1169,
     "timeMonth": 1177,
     "timeYear": 1132,
     "dailyMinutesDown": {
@@ -357,16 +354,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1103,
-    "timeDay": 1184,
-    "timeWeek": 1084,
-    "timeMonth": 1073,
-    "timeYear": 1112,
+    "timeDay": 968,
+    "timeWeek": 1074,
+    "timeMonth": 1074,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-12-18": 198,
       "2023-11-28": 19,
@@ -391,15 +388,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/interconomy.biz.ico",
     "slug": "web-interconomy",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1388,
-    "timeDay": 1305,
-    "timeWeek": 1282,
-    "timeMonth": 1345,
+    "time": 1389,
+    "timeDay": 1408,
+    "timeWeek": 1314,
+    "timeMonth": 1357,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2023-11-28": 19,
@@ -423,16 +420,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.48%",
-    "uptimeMonth": "98.09%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "98.69%",
     "time": 4400,
-    "timeDay": 8160,
-    "timeWeek": 4843,
-    "timeMonth": 4499,
-    "timeYear": 4460,
+    "timeDay": 587,
+    "timeWeek": 4338,
+    "timeMonth": 4368,
+    "timeYear": 4464,
     "dailyMinutesDown": {
       "2024-01-31": 497,
       "2024-01-28": 60,
@@ -517,8 +514,7 @@
       "2023-02-16": 26,
       "2023-02-14": 21,
       "2023-02-13": 17,
-      "2023-02-05": 1439,
-      "2023-02-04": 226
+      "2023-02-05": 1439
     }
   }
 ]
