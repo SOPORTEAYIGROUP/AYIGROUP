@@ -4,14 +4,14 @@
     "url": "190.96.117.110",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-epec",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "77.62%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "80.52%",
+    "uptimeWeek": "77.68%",
     "uptimeMonth": "94.40%",
-    "uptimeYear": "98.30%",
+    "uptimeYear": "98.31%",
     "time": 1965,
-    "timeDay": 1899,
+    "timeDay": 1896,
     "timeWeek": 1916,
     "timeMonth": 1918,
     "timeYear": 1972,
@@ -38,7 +38,7 @@
       "2023-11-28": 41,
       "2023-11-27": 66,
       "2023-11-25": 24,
-      "2023-11-24": 25
+      "2023-11-24": 5
     }
   },
   {
@@ -46,14 +46,14 @@
     "url": "http://caos.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caos.ayi-asociados.com.ico",
     "slug": "caos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "70.62%",
-    "uptimeWeek": "73.64%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "70.60%",
+    "uptimeWeek": "73.69%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 915,
-    "timeDay": 764,
+    "timeDay": 766,
     "timeWeek": 802,
     "timeMonth": 812,
     "timeYear": 915,
@@ -66,7 +66,7 @@
       "2024-03-16": 332,
       "2024-03-15": 461,
       "2024-03-14": 373,
-      "2024-03-13": 175
+      "2024-03-13": 158
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 385,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-03-21": 234,
+      "2024-03-21": 239,
       "2024-03-20": 659,
       "2024-03-19": 661,
       "2024-03-18": 670,
@@ -234,16 +234,16 @@
     "url": "https://ayi.academy/",
     "icon": "https://icons.duckduckgo.com/ip3/ayi.academy.ico",
     "slug": "ayi-academy",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "79.24%",
-    "uptimeWeek": "74.18%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "99.42%",
-    "time": 1185,
-    "timeDay": 754,
-    "timeWeek": 915,
-    "timeMonth": 993,
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "79.22%",
+    "uptimeWeek": "74.23%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "99.45%",
+    "time": 1184,
+    "timeDay": 745,
+    "timeWeek": 914,
+    "timeMonth": 992,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-03-21": 97,
@@ -254,8 +254,7 @@
       "2024-03-16": 376,
       "2024-03-15": 433,
       "2024-03-14": 371,
-      "2024-03-13": 198,
-      "2024-03-08": 156
+      "2024-03-13": 198
     }
   },
   {
@@ -267,7 +266,7 @@
     "uptime": "97.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.27%",
-    "uptimeMonth": "77.04%",
+    "uptimeMonth": "77.03%",
     "uptimeYear": "96.84%",
     "time": 2707,
     "timeDay": 574,
@@ -275,7 +274,7 @@
     "timeMonth": 2031,
     "timeYear": 2992,
     "dailyMinutesDown": {
-      "2024-03-21": 234,
+      "2024-03-21": 239,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -356,8 +355,8 @@
     "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.05%",
-    "uptimeMonth": "88.04%",
+    "uptimeWeek": "47.99%",
+    "uptimeMonth": "88.03%",
     "uptimeYear": "98.77%",
     "time": 1101,
     "timeDay": 0,
@@ -365,7 +364,7 @@
     "timeMonth": 1068,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-03-21": 234,
+      "2024-03-21": 239,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -424,13 +423,13 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "72.01%",
-    "uptimeMonth": "93.56%",
-    "uptimeYear": "99.46%",
-    "time": 3770,
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "72.48%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "99.47%",
+    "time": 3772,
     "timeDay": 1245,
     "timeWeek": 916,
     "timeMonth": 1569,
@@ -443,7 +442,7 @@
       "2024-03-17": 456,
       "2024-03-16": 469,
       "2024-03-15": 440,
-      "2024-03-14": 429
+      "2024-03-14": 381
     }
   }
 ]
