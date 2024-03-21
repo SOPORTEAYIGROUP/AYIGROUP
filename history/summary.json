@@ -6,9 +6,9 @@
     "slug": "internet-epec",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "77.84%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "78.72%",
+    "uptimeWeek": "77.90%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "98.31%",
     "time": 1964,
     "timeDay": 1886,
@@ -16,7 +16,7 @@
     "timeMonth": 1919,
     "timeYear": 1972,
     "dailyMinutesDown": {
-      "2024-03-21": 170,
+      "2024-03-21": 164,
       "2024-03-20": 221,
       "2024-03-19": 243,
       "2024-03-18": 315,
@@ -35,7 +35,8 @@
       "2024-01-02": 86,
       "2023-12-18": 810,
       "2023-12-17": 763,
-      "2023-11-28": 41
+      "2023-11-28": 41,
+      "2023-11-27": 28
     }
   },
   {
@@ -45,9 +46,9 @@
     "slug": "caos",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "68.70%",
-    "uptimeWeek": "73.84%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 916,
     "timeDay": 822,
@@ -55,7 +56,7 @@
     "timeMonth": 817,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2024-03-21": 205,
+      "2024-03-21": 199,
       "2024-03-20": 334,
       "2024-03-19": 292,
       "2024-03-18": 298,
@@ -63,7 +64,7 @@
       "2024-03-16": 332,
       "2024-03-15": 461,
       "2024-03-14": 373,
-      "2024-03-13": 77
+      "2024-03-13": 95
     }
   },
   {
@@ -83,7 +84,7 @@
     "timeMonth": 385,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-03-21": 458,
+      "2024-03-21": 463,
       "2024-03-20": 659,
       "2024-03-19": 661,
       "2024-03-18": 670,
@@ -233,9 +234,9 @@
     "slug": "ayi-academy",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "76.12%",
-    "uptimeWeek": "74.56%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "76.53%",
+    "uptimeWeek": "74.67%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1140,
     "timeDay": 760,
@@ -243,7 +244,7 @@
     "timeMonth": 988,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2024-03-21": 176,
+      "2024-03-21": 170,
       "2024-03-20": 238,
       "2024-03-19": 282,
       "2024-03-18": 364,
@@ -251,7 +252,7 @@
       "2024-03-16": 376,
       "2024-03-15": 433,
       "2024-03-14": 371,
-      "2024-03-13": 118
+      "2024-03-13": 157
     }
   },
   {
@@ -263,7 +264,7 @@
     "uptime": "97.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.33%",
-    "uptimeMonth": "76.53%",
+    "uptimeMonth": "76.52%",
     "uptimeYear": "96.80%",
     "time": 2707,
     "timeDay": 574,
@@ -271,7 +272,7 @@
     "timeMonth": 2031,
     "timeYear": 2992,
     "dailyMinutesDown": {
-      "2024-03-21": 458,
+      "2024-03-21": 463,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -352,8 +353,8 @@
     "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "45.82%",
-    "uptimeMonth": "87.53%",
+    "uptimeWeek": "45.77%",
+    "uptimeMonth": "87.52%",
     "uptimeYear": "98.73%",
     "time": 1101,
     "timeDay": 0,
@@ -361,7 +362,7 @@
     "timeMonth": 1068,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-03-21": 458,
+      "2024-03-21": 464,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -420,19 +421,19 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "71.92%",
-    "uptimeWeek": "72.03%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "71.58%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 3764,
-    "timeDay": 680,
-    "timeWeek": 842,
-    "timeMonth": 1561,
-    "timeYear": 3766,
+    "timeDay": 679,
+    "timeWeek": 841,
+    "timeMonth": 1559,
+    "timeYear": 3763,
     "dailyMinutesDown": {
-      "2024-03-21": 239,
+      "2024-03-21": 243,
       "2024-03-20": 310,
       "2024-03-19": 286,
       "2024-03-18": 310,
