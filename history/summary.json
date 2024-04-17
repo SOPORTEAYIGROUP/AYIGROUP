@@ -13,7 +13,7 @@
     "time": 1979,
     "timeDay": 2169,
     "timeWeek": 1930,
-    "timeMonth": 1985,
+    "timeMonth": 1984,
     "timeYear": 1987,
     "dailyMinutesDown": {
       "2024-04-06": 28,
@@ -74,7 +74,7 @@
     "uptime": "89.29%",
     "uptimeDay": "53.94%",
     "uptimeWeek": "38.53%",
-    "uptimeMonth": "38.29%",
+    "uptimeMonth": "38.32%",
     "uptimeYear": "76.44%",
     "time": 614,
     "timeDay": 438,
@@ -271,7 +271,7 @@
     "timeMonth": 587,
     "timeYear": 2961,
     "dailyMinutesDown": {
-      "2024-04-17": 1107,
+      "2024-04-17": 1120,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -376,7 +376,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "down",
-    "uptime": "95.81%",
+    "uptime": "95.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-04-17": 1107,
+      "2024-04-17": 1120,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -471,13 +471,13 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "91.36%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "99.12%",
-    "time": 3761,
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "99.13%",
+    "time": 3763,
     "timeDay": 1370,
     "timeWeek": 4432,
     "timeMonth": 1928,
@@ -499,7 +499,7 @@
       "2024-03-18": 310,
       "2024-03-17": 456,
       "2024-03-16": 469,
-      "2024-03-15": 297
+      "2024-03-15": 271
     }
   }
 ]
