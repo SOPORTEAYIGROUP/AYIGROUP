@@ -40,18 +40,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/caos.ayi-asociados.com.ico",
     "slug": "caos",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.24%",
     "time": 935,
     "timeDay": 796,
     "timeWeek": 2167,
     "timeMonth": 1173,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2024-05-01": 5,
       "2024-04-30": 17,
       "2024-03-28": 839,
       "2024-03-27": 246,
@@ -62,7 +61,7 @@
       "2024-03-17": 494,
       "2024-03-16": 332,
       "2024-03-15": 461,
-      "2024-03-14": 288
+      "2024-03-14": 321
     }
   },
   {
@@ -70,19 +69,19 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "89.47%",
-    "uptimeDay": "54.01%",
-    "uptimeWeek": "38.51%",
+    "status": "down",
+    "uptime": "89.53%",
+    "uptimeDay": "54.05%",
+    "uptimeWeek": "38.54%",
     "uptimeMonth": "40.40%",
-    "uptimeYear": "76.44%",
-    "time": 509,
+    "uptimeYear": "76.56%",
+    "time": 508,
     "timeDay": 468,
-    "timeWeek": 410,
-    "timeMonth": 520,
+    "timeWeek": 407,
+    "timeMonth": 515,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-05-01": 614,
+      "2024-05-01": 615,
       "2024-04-30": 659,
       "2024-04-29": 674,
       "2024-04-28": 1440,
@@ -221,8 +220,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 659,
-      "2023-12-14": 660,
-      "2023-12-13": 58
+      "2023-12-14": 51
     }
   },
   {
@@ -271,7 +269,7 @@
     "timeMonth": 596,
     "timeYear": 2943,
     "dailyMinutesDown": {
-      "2024-05-01": 1373,
+      "2024-05-01": 1393,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -401,7 +399,7 @@
     "timeMonth": 0,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2024-05-01": 1373,
+      "2024-05-01": 1393,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
