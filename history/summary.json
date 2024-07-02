@@ -73,17 +73,17 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "90.21%",
-    "uptimeDay": "53.76%",
+    "status": "down",
+    "uptime": "90.27%",
+    "uptimeDay": "53.74%",
     "uptimeWeek": "38.61%",
-    "uptimeMonth": "41.60%",
-    "uptimeYear": "76.44%",
-    "time": 486,
-    "timeDay": 356,
-    "timeWeek": 372,
-    "timeMonth": 363,
-    "timeYear": 483,
+    "uptimeMonth": "41.96%",
+    "uptimeYear": "76.56%",
+    "time": 485,
+    "timeDay": 295,
+    "timeWeek": 357,
+    "timeMonth": 359,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2024-07-02": 617,
       "2024-07-01": 668,
@@ -225,8 +225,7 @@
       "2024-02-16": 665,
       "2024-02-15": 658,
       "2024-02-14": 675,
-      "2024-02-13": 666,
-      "2024-02-12": 47
+      "2024-02-13": 52
     }
   },
   {
@@ -408,7 +407,7 @@
     "uptime": "88.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.14%",
+    "uptimeMonth": "44.50%",
     "uptimeYear": "74.05%",
     "time": 1105,
     "timeDay": 917,
@@ -531,7 +530,7 @@
     "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.13%",
+    "uptimeMonth": "44.48%",
     "uptimeYear": "89.82%",
     "time": 1421,
     "timeDay": 1043,
@@ -596,9 +595,9 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.11%",
     "time": 3658,
     "timeDay": 755,
@@ -606,7 +605,7 @@
     "timeMonth": 3537,
     "timeYear": 3657,
     "dailyMinutesDown": {
-      "2024-07-02": 23,
+      "2024-07-02": 16,
       "2024-07-01": 21,
       "2024-06-30": 17,
       "2024-06-28": 17,
@@ -646,7 +645,8 @@
       "2024-03-20": 310,
       "2024-03-19": 286,
       "2024-03-18": 310,
-      "2024-03-17": 456
+      "2024-03-17": 456,
+      "2024-03-16": 17
     }
   }
 ]
