@@ -86,7 +86,7 @@
     "timeMonth": 387,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-07-17": 269,
+      "2024-07-17": 301,
       "2024-07-16": 653,
       "2024-07-15": 656,
       "2024-07-14": 1440,
@@ -406,7 +406,7 @@
     "uptime": "89.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.25%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "74.05%",
     "time": 1105,
     "timeDay": 969,
@@ -529,7 +529,7 @@
     "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.24%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "89.82%",
     "time": 1422,
     "timeDay": 1296,
@@ -591,17 +591,17 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "87.10%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "87.09%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "98.90%",
-    "time": 3651,
-    "timeDay": 4296,
-    "timeWeek": 3421,
-    "timeMonth": 4316,
-    "timeYear": 3659,
+    "time": 3663,
+    "timeDay": 4272,
+    "timeWeek": 3954,
+    "timeMonth": 4451,
+    "timeYear": 3670,
     "dailyMinutesDown": {
       "2024-07-17": 45,
       "2024-07-15": 811,
@@ -651,7 +651,7 @@
       "2024-03-20": 310,
       "2024-03-19": 286,
       "2024-03-18": 310,
-      "2024-03-17": 142
+      "2024-03-17": 125
     }
   }
 ]
