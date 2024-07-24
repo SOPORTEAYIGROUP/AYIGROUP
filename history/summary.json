@@ -75,16 +75,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "90.47%",
-    "uptimeDay": "54.04%",
-    "uptimeWeek": "40.46%",
-    "uptimeMonth": "40.96%",
-    "uptimeYear": "76.48%",
-    "time": 486,
-    "timeDay": 497,
-    "timeWeek": 457,
-    "timeMonth": 402,
+    "status": "down",
+    "uptime": "90.52%",
+    "uptimeDay": "54.02%",
+    "uptimeWeek": "40.48%",
+    "uptimeMonth": "40.97%",
+    "uptimeYear": "76.61%",
+    "time": 485,
+    "timeDay": 430,
+    "timeWeek": 449,
+    "timeMonth": 401,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2024-07-24": 616,
@@ -227,8 +227,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 660,
       "2024-03-07": 664,
-      "2024-03-06": 656,
-      "2024-03-05": 51
+      "2024-03-06": 49
     }
   },
   {
@@ -526,7 +525,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/interconomy.biz.ico",
     "slug": "web-interconomy",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -592,18 +591,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "98.91%",
+    "uptime": "99.55%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "98.90%",
     "time": 3650,
     "timeDay": 697,
     "timeWeek": 3073,
     "timeMonth": 3846,
     "timeYear": 3651,
     "dailyMinutesDown": {
-      "2024-07-24": 21,
+      "2024-07-24": 16,
       "2024-07-23": 47,
       "2024-07-22": 16,
       "2024-07-21": 75,
@@ -655,7 +654,7 @@
       "2024-03-21": 361,
       "2024-03-20": 310,
       "2024-03-19": 286,
-      "2024-03-18": 208
+      "2024-03-18": 261
     }
   }
 ]
