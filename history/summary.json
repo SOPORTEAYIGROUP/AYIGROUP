@@ -76,16 +76,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "90.48%",
-    "uptimeDay": "54.36%",
+    "status": "down",
+    "uptime": "90.53%",
+    "uptimeDay": "54.44%",
     "uptimeWeek": "40.45%",
     "uptimeMonth": "40.98%",
-    "uptimeYear": "76.48%",
+    "uptimeYear": "76.61%",
     "time": 485,
-    "timeDay": 369,
-    "timeWeek": 418,
-    "timeMonth": 403,
+    "timeDay": 349,
+    "timeWeek": 404,
+    "timeMonth": 400,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2024-07-25": 610,
@@ -228,8 +228,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 660,
-      "2024-03-07": 664,
-      "2024-03-06": 49
+      "2024-03-07": 52
     }
   },
   {
@@ -599,7 +598,7 @@
     "uptimeMonth": "96.14%",
     "uptimeYear": "98.90%",
     "time": 3660,
-    "timeDay": 5347,
+    "timeDay": 6872,
     "timeWeek": 3077,
     "timeMonth": 3984,
     "timeYear": 3652,
