@@ -81,14 +81,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "38.76%",
     "uptimeMonth": "37.42%",
-    "uptimeYear": "76.06%",
+    "uptimeYear": "76.04%",
     "time": 485,
     "timeDay": 181,
     "timeWeek": 415,
     "timeMonth": 398,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2024-07-28": 1417,
+      "2024-07-29": 58,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 656,
       "2024-07-25": 656,
@@ -595,17 +596,17 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "98.90%",
     "time": 3638,
     "timeDay": 741,
     "timeWeek": 3496,
     "timeMonth": 4115,
     "timeYear": 3635,
     "dailyMinutesDown": {
-      "2024-07-28": 54,
+      "2024-07-28": 49,
       "2024-07-26": 31,
       "2024-07-24": 16,
       "2024-07-23": 47,
@@ -659,7 +660,7 @@
       "2024-03-21": 361,
       "2024-03-20": 310,
       "2024-03-19": 286,
-      "2024-03-18": 149
+      "2024-03-18": 166
     }
   }
 ]
