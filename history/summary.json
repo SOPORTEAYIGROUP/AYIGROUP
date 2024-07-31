@@ -77,16 +77,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "90.54%",
-    "uptimeDay": "54.16%",
+    "status": "down",
+    "uptime": "90.60%",
+    "uptimeDay": "54.22%",
     "uptimeWeek": "38.76%",
-    "uptimeMonth": "38.69%",
-    "uptimeYear": "76.49%",
+    "uptimeMonth": "39.46%",
+    "uptimeYear": "76.61%",
     "time": 484,
-    "timeDay": 262,
-    "timeWeek": 402,
-    "timeMonth": 408,
+    "timeDay": 196,
+    "timeWeek": 390,
+    "timeMonth": 405,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2024-07-31": 609,
@@ -229,8 +229,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 661,
       "2024-03-14": 659,
-      "2024-03-13": 658,
-      "2024-03-12": 46
+      "2024-03-13": 50
     }
   },
   {
@@ -406,7 +405,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "up",
-    "uptime": "89.34%",
+    "uptime": "89.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -602,7 +601,7 @@
     "uptimeYear": "98.90%",
     "time": 3640,
     "timeDay": 6781,
-    "timeWeek": 4645,
+    "timeWeek": 4813,
     "timeMonth": 3832,
     "timeYear": 3659,
     "dailyMinutesDown": {
