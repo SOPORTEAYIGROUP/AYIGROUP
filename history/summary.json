@@ -4,11 +4,11 @@
     "url": "190.96.117.110",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-epec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.22%",
     "time": 2003,
     "timeDay": 1960,
@@ -16,6 +16,7 @@
     "timeMonth": 1959,
     "timeYear": 2026,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-30": 18,
       "2024-08-12": 20,
       "2024-08-08": 142,
@@ -34,7 +35,7 @@
       "2024-03-17": 419,
       "2024-03-16": 297,
       "2024-03-15": 387,
-      "2024-03-14": 284
+      "2024-03-14": 259
     }
   },
   {
@@ -42,9 +43,9 @@
     "url": "http://caos.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caos.ayi-asociados.com.ico",
     "slug": "caos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.25%",
@@ -54,6 +55,7 @@
     "timeMonth": 769,
     "timeYear": 957,
     "dailyMinutesDown": {
+      "2024-08-31": 0,
       "2024-08-30": 18,
       "2024-08-27": 15,
       "2024-08-24": 16,
@@ -74,7 +76,7 @@
       "2024-03-17": 494,
       "2024-03-16": 332,
       "2024-03-15": 461,
-      "2024-03-14": 41
+      "2024-03-14": 23
     }
   },
   {
@@ -84,17 +86,17 @@
     "slug": "gitlab-ayigroup",
     "status": "down",
     "uptime": "90.82%",
-    "uptimeDay": "28.78%",
+    "uptimeDay": "21.32%",
     "uptimeWeek": "38.42%",
-    "uptimeMonth": "37.99%",
-    "uptimeYear": "76.40%",
+    "uptimeMonth": "37.75%",
+    "uptimeYear": "76.38%",
     "time": 480,
     "timeDay": 260,
     "timeWeek": 352,
     "timeMonth": 485,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-08-31": 973,
+      "2024-08-31": 1080,
       "2024-08-30": 666,
       "2024-08-29": 665,
       "2024-08-28": 662,
@@ -273,18 +275,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayi-asociados.com.ico",
     "slug": "jira-ayigroup",
     "status": "down",
-    "uptime": "89.86%",
+    "uptime": "89.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.32%",
-    "uptimeYear": "75.41%",
+    "uptimeMonth": "4.08%",
+    "uptimeYear": "75.39%",
     "time": 2774,
     "timeDay": 3644,
     "timeWeek": 3662,
     "timeMonth": 3495,
     "timeYear": 2950,
     "dailyMinutesDown": {
-      "2024-08-31": 973,
+      "2024-08-31": 1080,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -408,12 +410,12 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.73%",
     "time": 1205,
     "timeDay": 1103,
     "timeWeek": 1056,
-    "timeMonth": 1138,
+    "timeMonth": 1134,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2024-08-12": 20,
@@ -634,9 +636,9 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.87%",
     "time": 3669,
     "timeDay": 818,
@@ -644,7 +646,6 @@
     "timeMonth": 3459,
     "timeYear": 3558,
     "dailyMinutesDown": {
-      "2024-08-31": 15,
       "2024-08-30": 16,
       "2024-08-26": 27,
       "2024-08-25": 15,
@@ -710,7 +711,7 @@
       "2024-03-24": 58,
       "2024-03-21": 361,
       "2024-03-20": 310,
-      "2024-03-19": 112
+      "2024-03-19": 129
     }
   }
 ]
