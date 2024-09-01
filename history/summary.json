@@ -43,18 +43,19 @@
     "url": "http://caos.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caos.ayi-asociados.com.ico",
     "slug": "caos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.25%",
-    "time": 930,
+    "time": 931,
     "timeDay": 788,
     "timeWeek": 784,
     "timeMonth": 771,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-08-31": 17,
       "2024-08-30": 18,
       "2024-08-27": 15,
@@ -76,7 +77,7 @@
       "2024-03-17": 494,
       "2024-03-16": 332,
       "2024-03-15": 461,
-      "2024-03-14": 23
+      "2024-03-14": 4
     }
   },
   {
@@ -96,7 +97,8 @@
     "timeMonth": 491,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-08-31": 1423,
+      "2024-09-01": 0,
+      "2024-08-31": 1440,
       "2024-08-30": 666,
       "2024-08-29": 665,
       "2024-08-28": 662,
@@ -275,10 +277,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayi-asociados.com.ico",
     "slug": "jira-ayigroup",
     "status": "down",
-    "uptime": "89.83%",
+    "uptime": "89.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.29%",
+    "uptimeMonth": "3.25%",
     "uptimeYear": "75.32%",
     "time": 2777,
     "timeDay": 3648,
@@ -286,7 +288,8 @@
     "timeMonth": 3576,
     "timeYear": 2954,
     "dailyMinutesDown": {
-      "2024-08-31": 1423,
+      "2024-09-01": 0,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -636,9 +639,9 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.87%",
     "time": 3660,
     "timeDay": 766,
@@ -646,7 +649,6 @@
     "timeMonth": 3404,
     "timeYear": 3554,
     "dailyMinutesDown": {
-      "2024-08-31": 5,
       "2024-08-30": 16,
       "2024-08-26": 27,
       "2024-08-25": 15,
@@ -712,7 +714,7 @@
       "2024-03-24": 58,
       "2024-03-21": 361,
       "2024-03-20": 310,
-      "2024-03-19": 112
+      "2024-03-19": 129
     }
   }
 ]
