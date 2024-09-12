@@ -6,17 +6,16 @@
     "slug": "internet-epec",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "72.44%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "98.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "72.52%",
+    "uptimeMonth": "93.60%",
+    "uptimeYear": "98.69%",
     "time": 2004,
     "timeDay": 2058,
-    "timeWeek": 1861,
+    "timeWeek": 1852,
     "timeMonth": 1905,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2024-09-12": 9,
       "2024-09-09": 669,
       "2024-09-08": 1440,
       "2024-09-07": 660,
@@ -39,7 +38,7 @@
       "2024-03-17": 419,
       "2024-03-16": 297,
       "2024-03-15": 387,
-      "2024-03-14": 201
+      "2024-03-14": 242
     }
   },
   {
@@ -49,17 +48,16 @@
     "slug": "caos",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "68.84%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "98.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "68.93%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "98.67%",
     "time": 960,
     "timeDay": 755,
-    "timeWeek": 3994,
+    "timeWeek": 4465,
     "timeMonth": 1135,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2024-09-12": 9,
       "2024-09-09": 1032,
       "2024-09-08": 1440,
       "2024-09-07": 660,
@@ -84,7 +82,7 @@
       "2024-03-18": 298,
       "2024-03-17": 494,
       "2024-03-16": 332,
-      "2024-03-15": 286
+      "2024-03-15": 336
     }
   },
   {
@@ -92,16 +90,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "90.97%",
-    "uptimeDay": "53.77%",
-    "uptimeWeek": "38.26%",
-    "uptimeMonth": "38.73%",
-    "uptimeYear": "76.47%",
+    "status": "down",
+    "uptime": "91.02%",
+    "uptimeDay": "54.19%",
+    "uptimeWeek": "38.30%",
+    "uptimeMonth": "38.74%",
+    "uptimeYear": "76.59%",
     "time": 481,
-    "timeDay": 393,
-    "timeWeek": 342,
-    "timeMonth": 505,
+    "timeDay": 495,
+    "timeWeek": 363,
+    "timeMonth": 507,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2024-09-12": 613,
@@ -244,8 +242,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 660,
-      "2024-04-25": 660,
-      "2024-04-24": 50
+      "2024-04-25": 47
     }
   },
   {
@@ -255,9 +252,9 @@
     "slug": "ayi-academy",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "70.29%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.38%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.69%",
     "time": 1210,
     "timeDay": 832,
@@ -265,7 +262,6 @@
     "timeMonth": 2239,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2024-09-12": 9,
       "2024-09-09": 887,
       "2024-09-08": 1440,
       "2024-09-07": 658,
@@ -278,7 +274,7 @@
       "2024-03-17": 510,
       "2024-03-16": 376,
       "2024-03-15": 433,
-      "2024-03-14": 319
+      "2024-03-14": 339
     }
   },
   {
@@ -288,9 +284,9 @@
     "slug": "jira-ayigroup",
     "status": "up",
     "uptime": "89.05%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "47.67%",
-    "uptimeMonth": "9.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "48.08%",
+    "uptimeMonth": "9.16%",
     "uptimeYear": "72.96%",
     "time": 2812,
     "timeDay": 1184,
@@ -298,7 +294,6 @@
     "timeMonth": 3313,
     "timeYear": 2987,
     "dailyMinutesDown": {
-      "2024-09-12": 9,
       "2024-09-09": 867,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -665,17 +660,16 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "70.68%",
-    "uptimeMonth": "89.67%",
-    "uptimeYear": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "70.77%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "98.09%",
     "time": 3606,
     "timeDay": 668,
     "timeWeek": 3808,
     "timeMonth": 2727,
     "timeYear": 3504,
     "dailyMinutesDown": {
-      "2024-09-12": 9,
       "2024-09-09": 849,
       "2024-09-08": 1440,
       "2024-09-07": 657,
@@ -748,7 +742,7 @@
       "2024-03-24": 58,
       "2024-03-21": 361,
       "2024-03-20": 310,
-      "2024-03-19": 3
+      "2024-03-19": 23
     }
   }
 ]
