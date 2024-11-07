@@ -14,7 +14,7 @@
     "timeDay": 2273,
     "timeWeek": 2022,
     "timeMonth": 1948,
-    "timeYear": 2031,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2024-09-28": 16,
       "2024-09-19": 822,
@@ -98,16 +98,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "91.47%",
-    "uptimeDay": "54.03%",
-    "uptimeWeek": "38.62%",
-    "uptimeMonth": "38.96%",
-    "uptimeYear": "76.47%",
+    "status": "down",
+    "uptime": "91.52%",
+    "uptimeDay": "54.09%",
+    "uptimeWeek": "38.61%",
+    "uptimeMonth": "38.97%",
+    "uptimeYear": "76.60%",
     "time": 476,
-    "timeDay": 410,
-    "timeWeek": 363,
-    "timeMonth": 394,
+    "timeDay": 200,
+    "timeWeek": 351,
+    "timeMonth": 383,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2024-11-07": 614,
@@ -250,9 +250,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 665,
       "2024-06-20": 663,
-      "2024-06-19": 49,
-      "2024-06-18": 608,
-      "2024-06-17": 53
+      "2024-06-19": 49
     }
   },
   {
@@ -454,7 +452,7 @@
     "timeDay": 1328,
     "timeWeek": 1133,
     "timeMonth": 1032,
-    "timeYear": 1239,
+    "timeYear": 1238,
     "dailyMinutesDown": {
       "2024-08-12": 20,
       "2024-08-08": 141,
@@ -478,7 +476,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "up",
-    "uptime": "90.36%",
+    "uptime": "90.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
