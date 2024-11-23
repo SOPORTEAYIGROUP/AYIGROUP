@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
     "time": 2018,
-    "timeDay": 2094,
-    "timeWeek": 1869,
-    "timeMonth": 1903,
-    "timeYear": 2024,
+    "timeDay": 2188,
+    "timeWeek": 1904,
+    "timeMonth": 1910,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2024-09-28": 16,
       "2024-09-19": 822,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.19%",
     "time": 973,
-    "timeDay": 652,
-    "timeWeek": 688,
-    "timeMonth": 722,
+    "timeDay": 759,
+    "timeWeek": 700,
+    "timeMonth": 724,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2024-10-17": 41,
@@ -100,17 +100,18 @@
     "slug": "gitlab-ayigroup",
     "status": "down",
     "uptime": "91.74%",
-    "uptimeDay": "54.56%",
+    "uptimeDay": "54.44%",
     "uptimeWeek": "38.76%",
     "uptimeMonth": "40.84%",
-    "uptimeYear": "76.88%",
+    "uptimeYear": "76.86%",
     "time": 476,
-    "timeDay": 373,
-    "timeWeek": 445,
-    "timeMonth": 407,
+    "timeDay": 453,
+    "timeWeek": 459,
+    "timeMonth": 411,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-11-22": 610,
+      "2024-11-23": 65,
+      "2024-11-22": 656,
       "2024-11-21": 655,
       "2024-11-20": 657,
       "2024-11-19": 658,
@@ -264,9 +265,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.15%",
     "time": 1199,
-    "timeDay": 1211,
-    "timeWeek": 1139,
-    "timeMonth": 1126,
+    "timeDay": 1383,
+    "timeWeek": 1166,
+    "timeMonth": 1133,
     "timeYear": 1207,
     "dailyMinutesDown": {
       "2024-09-19": 822,
@@ -299,9 +300,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "72.46%",
     "time": 2769,
-    "timeDay": 2183,
-    "timeWeek": 1332,
-    "timeMonth": 2027,
+    "timeDay": 2241,
+    "timeWeek": 1338,
+    "timeMonth": 2030,
     "timeYear": 2552,
     "dailyMinutesDown": {
       "2024-11-16": 16,
@@ -430,8 +431,7 @@
       "2024-01-02": 86,
       "2023-12-18": 810,
       "2023-12-17": 761,
-      "2023-12-12": 18,
-      "2023-11-24": 21
+      "2023-12-12": 18
     }
   },
   {
@@ -446,10 +446,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.78%",
     "time": 1203,
-    "timeDay": 1241,
-    "timeWeek": 1067,
-    "timeMonth": 1009,
-    "timeYear": 1224,
+    "timeDay": 908,
+    "timeWeek": 1047,
+    "timeMonth": 1000,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2024-11-13": 15,
       "2024-08-12": 20,
@@ -463,8 +463,7 @@
       "2024-02-18": 27,
       "2024-02-04": 367,
       "2023-11-27": 66,
-      "2023-11-25": 24,
-      "2023-11-24": 40
+      "2023-11-25": 24
     }
   },
   {
@@ -479,10 +478,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.02%",
     "time": 1147,
-    "timeDay": 1055,
-    "timeWeek": 1084,
-    "timeMonth": 1171,
-    "timeYear": 1163,
+    "timeDay": 1341,
+    "timeWeek": 1131,
+    "timeMonth": 1178,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2024-09-07": 81,
       "2024-09-05": 74,
@@ -588,8 +587,7 @@
       "2023-12-18": 198,
       "2023-11-28": 19,
       "2023-11-27": 64,
-      "2023-11-25": 24,
-      "2023-11-24": 40
+      "2023-11-25": 24
     }
   },
   {
@@ -603,11 +601,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.80%",
-    "time": 1417,
-    "timeDay": 1245,
-    "timeWeek": 1255,
-    "timeMonth": 1279,
-    "timeYear": 1431,
+    "time": 1416,
+    "timeDay": 1456,
+    "timeWeek": 1279,
+    "timeMonth": 1282,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2024-09-07": 81,
       "2024-09-05": 74,
@@ -655,8 +653,7 @@
       "2024-04-18": 187,
       "2024-04-06": 36,
       "2023-11-28": 19,
-      "2023-11-27": 45,
-      "2023-11-24": 34
+      "2023-11-27": 45
     }
   },
   {
@@ -671,9 +668,9 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "97.59%",
     "time": 3532,
-    "timeDay": 575,
-    "timeWeek": 4804,
-    "timeMonth": 4001,
+    "timeDay": 579,
+    "timeWeek": 4759,
+    "timeMonth": 3999,
     "timeYear": 3404,
     "dailyMinutesDown": {
       "2024-11-21": 52,
