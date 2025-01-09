@@ -53,9 +53,9 @@
     "slug": "caos",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "97.96%",
     "time": 1011,
     "timeDay": 1637,
@@ -63,7 +63,6 @@
     "timeMonth": 1977,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2025-01-09": 13,
       "2024-12-26": 836,
       "2024-12-25": 411,
       "2024-10-17": 41,
@@ -94,7 +93,7 @@
       "2024-03-18": 298,
       "2024-03-17": 494,
       "2024-03-16": 332,
-      "2024-03-15": 205
+      "2024-03-15": 233
     }
   },
   {
@@ -102,16 +101,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "92.05%",
-    "uptimeDay": "54.07%",
-    "uptimeWeek": "38.50%",
+    "status": "down",
+    "uptime": "92.10%",
+    "uptimeDay": "54.19%",
+    "uptimeWeek": "38.51%",
     "uptimeMonth": "38.82%",
-    "uptimeYear": "76.71%",
+    "uptimeYear": "76.83%",
     "time": 477,
-    "timeDay": 298,
-    "timeWeek": 347,
-    "timeMonth": 389,
+    "timeDay": 300,
+    "timeWeek": 357,
+    "timeMonth": 392,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2025-01-09": 610,
@@ -254,8 +253,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 656,
       "2024-08-22": 664,
-      "2024-08-21": 670,
-      "2024-08-20": 47
+      "2024-08-21": 60
     }
   },
   {
@@ -299,18 +297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayi-asociados.com.ico",
     "slug": "jira-ayigroup",
     "status": "down",
-    "uptime": "85.65%",
+    "uptime": "85.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.80%",
+    "uptimeYear": "59.69%",
     "time": 2795,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2255,
     "dailyMinutesDown": {
-      "2025-01-09": 815,
+      "2025-01-09": 1391,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -702,18 +700,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
     "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "94.30%",
+    "uptime": "98.05%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "94.29%",
     "time": 3399,
     "timeDay": 1865,
     "timeWeek": 4053,
-    "timeMonth": 3405,
+    "timeMonth": 3451,
     "timeYear": 3137,
     "dailyMinutesDown": {
-      "2025-01-09": 36,
+      "2025-01-09": 24,
       "2025-01-08": 21,
       "2025-01-05": 60,
       "2025-01-02": 20,
@@ -816,7 +814,8 @@
       "2024-04-29": 16,
       "2024-04-28": 68,
       "2024-04-26": 15,
-      "2024-04-24": 17
+      "2024-04-24": 17,
+      "2024-04-21": 53
     }
   }
 ]
