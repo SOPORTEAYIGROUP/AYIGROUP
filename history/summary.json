@@ -4,18 +4,19 @@
     "url": "190.96.117.110",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-epec",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 1985,
     "timeDay": 2844,
     "timeWeek": 2057,
     "timeMonth": 1806,
     "timeYear": 1961,
     "dailyMinutesDown": {
+      "2025-02-28": 1,
       "2025-02-25": 64,
       "2024-12-24": 46,
       "2024-09-28": 16,
@@ -44,7 +45,7 @@
       "2024-03-17": 419,
       "2024-03-16": 297,
       "2024-03-15": 387,
-      "2024-03-14": 97
+      "2024-03-14": 59
     }
   },
   {
@@ -328,7 +329,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "up",
-    "uptime": "91.33%",
+    "uptime": "91.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
