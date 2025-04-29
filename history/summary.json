@@ -92,13 +92,14 @@
     "uptimeDay": "51.10%",
     "uptimeWeek": "38.13%",
     "uptimeMonth": "35.21%",
-    "uptimeYear": "75.69%",
+    "uptimeYear": "75.68%",
     "time": 465,
     "timeDay": 197,
     "timeWeek": 292,
     "timeMonth": 387,
     "timeYear": 456,
     "dailyMinutesDown": {
+      "2025-04-29": 72,
       "2025-04-28": 704,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -251,10 +252,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayi.academy.ico",
     "slug": "ayi-academy",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "96.51%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "98.60%",
     "time": 1547,
     "timeDay": 1000,
@@ -262,7 +263,6 @@
     "timeMonth": 3786,
     "timeYear": 1743,
     "dailyMinutesDown": {
-      "2025-04-28": 6,
       "2025-04-11": 81,
       "2025-04-10": 1010,
       "2025-04-09": 432,
@@ -311,7 +311,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.71%",
+    "uptimeYear": "85.73%",
     "time": 1162,
     "timeDay": 933,
     "timeWeek": 1205,
@@ -375,8 +375,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
