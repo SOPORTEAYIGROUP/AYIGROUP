@@ -77,16 +77,16 @@
     "url": "https://gitlab.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
-    "status": "up",
-    "uptime": "93.39%",
-    "uptimeDay": "54.18%",
-    "uptimeWeek": "38.62%",
+    "status": "down",
+    "uptime": "93.58%",
+    "uptimeDay": "54.16%",
+    "uptimeWeek": "38.61%",
     "uptimeMonth": "38.95%",
-    "uptimeYear": "76.42%",
+    "uptimeYear": "77.09%",
     "time": 446,
-    "timeDay": 312,
-    "timeWeek": 642,
-    "timeMonth": 513,
+    "timeDay": 307,
+    "timeWeek": 623,
+    "timeMonth": 511,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-08-29": 612,
@@ -226,10 +226,7 @@
       "2025-04-17": 671,
       "2025-04-16": 659,
       "2025-04-15": 663,
-      "2025-04-14": 664,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 50
+      "2025-04-14": 53
     }
   },
   {
@@ -343,17 +340,16 @@
     "slug": "caosbi",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "92.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "92.62%",
     "time": 2620,
     "timeDay": 6834,
     "timeWeek": 4000,
     "timeMonth": 1683,
-    "timeYear": 2375,
+    "timeYear": 2377,
     "dailyMinutesDown": {
-      "2025-08-29": 5,
       "2025-08-25": 21,
       "2025-08-17": 46,
       "2025-08-11": 18,
@@ -472,7 +468,8 @@
       "2024-10-15": 44,
       "2024-10-08": 17,
       "2024-09-29": 63,
-      "2024-09-25": 20
+      "2024-09-25": 20,
+      "2024-09-23": 39
     }
   }
 ]
