@@ -289,7 +289,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -334,17 +334,17 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "86.40%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "86.38%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "92.61%",
+    "uptimeYear": "92.62%",
     "time": 2451,
-    "timeDay": 2730,
-    "timeWeek": 2414,
-    "timeMonth": 1833,
-    "timeYear": 2393,
+    "timeDay": 2513,
+    "timeWeek": 2330,
+    "timeMonth": 1810,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2025-09-04": 196,
       "2025-09-01": 52,
@@ -461,8 +461,7 @@
       "2024-11-04": 63,
       "2024-11-03": 17,
       "2024-11-02": 20,
-      "2024-10-28": 19,
-      "2024-10-25": 24
+      "2024-10-28": 19
     }
   }
 ]
