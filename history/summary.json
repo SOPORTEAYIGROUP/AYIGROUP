@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.02%",
-    "time": 1849,
-    "timeDay": 1366,
-    "timeWeek": 1644,
-    "timeMonth": 1915,
-    "timeYear": 1753,
+    "time": 1848,
+    "timeDay": 1445,
+    "timeWeek": 1571,
+    "timeMonth": 1914,
+    "timeYear": 1752,
     "dailyMinutesDown": {
       "2025-09-05": 76,
       "2025-09-04": 40,
@@ -28,8 +28,7 @@
       "2024-12-24": 46,
       "2024-09-28": 16,
       "2024-09-19": 822,
-      "2024-09-18": 1440,
-      "2024-09-17": 280
+      "2024-09-18": 1440
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "98.76%",
     "time": 1041,
-    "timeDay": 648,
-    "timeWeek": 2781,
-    "timeMonth": 1334,
-    "timeYear": 1021,
+    "timeDay": 778,
+    "timeWeek": 2778,
+    "timeMonth": 1337,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-09-05": 142,
       "2025-09-04": 103,
@@ -61,8 +60,7 @@
       "2024-12-25": 411,
       "2024-10-17": 41,
       "2024-09-19": 822,
-      "2024-09-18": 1440,
-      "2024-09-17": 279
+      "2024-09-18": 1440
     }
   },
   {
@@ -71,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
     "status": "down",
-    "uptime": "93.52%",
+    "uptime": "93.51%",
     "uptimeDay": "53.75%",
     "uptimeWeek": "38.33%",
     "uptimeMonth": "37.11%",
-    "uptimeYear": "76.55%",
+    "uptimeYear": "76.53%",
     "time": 444,
-    "timeDay": 449,
-    "timeWeek": 464,
+    "timeDay": 431,
+    "timeWeek": 459,
     "timeMonth": 475,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-09-16": 620,
+      "2025-09-17": 67,
+      "2025-09-16": 666,
       "2025-09-15": 671,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -235,10 +234,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.91%",
-    "time": 1735,
-    "timeDay": 930,
-    "timeWeek": 1257,
-    "timeMonth": 2472,
+    "time": 1734,
+    "timeDay": 876,
+    "timeWeek": 1199,
+    "timeMonth": 2469,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2025-09-05": 75,
@@ -253,8 +252,7 @@
       "2025-04-10": 1010,
       "2025-04-09": 432,
       "2024-09-19": 822,
-      "2024-09-18": 1440,
-      "2024-09-17": 562
+      "2024-09-18": 1440
     }
   },
   {
@@ -268,10 +266,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1057,
-    "timeDay": 962,
-    "timeWeek": 850,
-    "timeMonth": 1661,
+    "time": 1047,
+    "timeDay": 996,
+    "timeWeek": 851,
+    "timeMonth": 1666,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2025-02-25": 16,
@@ -290,10 +288,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1187,
-    "timeDay": 1142,
-    "timeWeek": 1195,
-    "timeMonth": 1214,
-    "timeYear": 1206,
+    "timeDay": 1116,
+    "timeWeek": 1167,
+    "timeMonth": 1218,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-07-23": 97,
       "2025-03-08": 57
@@ -311,9 +309,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1312,
-    "timeDay": 1261,
-    "timeWeek": 1334,
-    "timeMonth": 1321,
+    "timeDay": 1209,
+    "timeWeek": 1291,
+    "timeMonth": 1326,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2025-07-23": 96,
@@ -331,11 +329,11 @@
     "uptimeWeek": "99.54%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "92.55%",
-    "time": 2424,
-    "timeDay": 692,
-    "timeWeek": 4271,
-    "timeMonth": 2767,
-    "timeYear": 2356,
+    "time": 2425,
+    "timeDay": 1194,
+    "timeWeek": 4299,
+    "timeMonth": 2773,
+    "timeYear": 2357,
     "dailyMinutesDown": {
       "2025-09-14": 47,
       "2025-09-08": 60,
