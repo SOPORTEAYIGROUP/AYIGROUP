@@ -65,9 +65,9 @@
     "slug": "gitlab-ayigroup",
     "status": "up",
     "uptime": "93.67%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "6.65%",
     "uptimeWeek": "38.39%",
-    "uptimeMonth": "36.68%",
+    "uptimeMonth": "36.89%",
     "uptimeYear": "76.41%",
     "time": 432,
     "timeDay": 310,
@@ -317,18 +317,19 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "96.02%",
-    "time": 2504,
-    "timeDay": 792,
-    "timeWeek": 3932,
-    "timeMonth": 2924,
-    "timeYear": 2228,
+    "time": 2480,
+    "timeDay": 727,
+    "timeWeek": 3768,
+    "timeMonth": 2890,
+    "timeYear": 2226,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-22": 37,
       "2025-10-21": 18,
       "2025-10-19": 59,
@@ -429,8 +430,7 @@
       "2025-01-16": 16,
       "2025-01-14": 22,
       "2025-01-12": 28,
-      "2025-01-09": 24,
-      "2025-01-08": 21
+      "2025-01-09": 24
     }
   }
 ]
