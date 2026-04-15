@@ -1,7 +1,7 @@
 url: https://gitlab.ayi-asociados.com/
-status: up
-code: 200
-responseTime: 982
-lastUpdated: 2026-04-15T10:39:36.766Z
+status: down
+code: 503
+responseTime: 149
+lastUpdated: 2026-04-15T23:29:23.165Z
 startTime: 2022-02-05T01:12:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
