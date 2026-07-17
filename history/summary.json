@@ -84,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.ayi-asociados.com.ico",
     "slug": "gitlab-ayigroup",
     "status": "down",
-    "uptime": "94.71%",
+    "uptime": "94.70%",
     "uptimeDay": "56.89%",
     "uptimeWeek": "37.31%",
     "uptimeMonth": "37.73%",
-    "uptimeYear": "76.47%",
+    "uptimeYear": "76.45%",
     "time": 406,
     "timeDay": 452,
     "timeWeek": 331,
@@ -234,7 +234,7 @@
       "2026-07-14": 689,
       "2026-07-15": 701,
       "2026-07-16": 624,
-      "2026-07-17": 234
+      "2026-07-17": 365
     }
   },
   {
@@ -347,7 +347,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.87%",
+    "uptimeYear": "37.84%",
     "time": 1215,
     "timeDay": 0,
     "timeWeek": 0,
@@ -355,7 +355,7 @@
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-07-23": 97,
-      "2026-07-17": 238,
+      "2026-07-17": 369,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -591,11 +591,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interconomy.biz.ico",
     "slug": "web-interconomy",
     "status": "down",
-    "uptime": "83.32%",
+    "uptime": "83.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.87%",
+    "uptimeYear": "37.84%",
     "time": 1337,
     "timeDay": 0,
     "timeWeek": 0,
@@ -603,7 +603,7 @@
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-07-23": 96,
-      "2026-07-17": 238,
+      "2026-07-17": 369,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -838,17 +838,17 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "down",
+    "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "86.96%",
-    "uptimeMonth": "88.99%",
-    "uptimeYear": "93.61%",
-    "time": 1522,
-    "timeDay": 2102,
-    "timeWeek": 1138,
-    "timeMonth": 788,
-    "timeYear": 1660,
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "85.67%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "93.58%",
+    "time": 1521,
+    "timeDay": 1613,
+    "timeWeek": 1099,
+    "timeMonth": 784,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-09-04": 234,
       "2025-09-05": 316,
@@ -965,7 +965,7 @@
       "2026-07-13": 783,
       "2026-07-12": 352,
       "2026-07-16": 178,
-      "2026-07-17": 0
+      "2026-07-17": 131
     }
   }
 ]
