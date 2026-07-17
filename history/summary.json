@@ -88,7 +88,7 @@
     "uptimeDay": "56.89%",
     "uptimeWeek": "37.31%",
     "uptimeMonth": "37.73%",
-    "uptimeYear": "76.49%",
+    "uptimeYear": "76.47%",
     "time": 406,
     "timeDay": 452,
     "timeWeek": 331,
@@ -234,7 +234,7 @@
       "2026-07-14": 689,
       "2026-07-15": 701,
       "2026-07-16": 624,
-      "2026-07-17": 129
+      "2026-07-17": 234
     }
   },
   {
@@ -343,11 +343,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inmuta.com.ico",
     "slug": "web-inmuta",
     "status": "down",
-    "uptime": "80.06%",
+    "uptime": "80.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.89%",
+    "uptimeYear": "37.87%",
     "time": 1215,
     "timeDay": 0,
     "timeWeek": 0,
@@ -355,7 +355,7 @@
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-07-23": 97,
-      "2026-07-17": 132,
+      "2026-07-17": 238,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -595,7 +595,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.89%",
+    "uptimeYear": "37.87%",
     "time": 1337,
     "timeDay": 0,
     "timeWeek": 0,
@@ -603,7 +603,7 @@
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-07-23": 96,
-      "2026-07-17": 132,
+      "2026-07-17": 238,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -838,19 +838,19 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "86.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "86.96%",
     "uptimeMonth": "88.99%",
-    "uptimeYear": "93.60%",
-    "time": 1520,
-    "timeDay": 734,
-    "timeWeek": 920,
-    "timeMonth": 719,
-    "timeYear": 1657,
+    "uptimeYear": "93.61%",
+    "time": 1522,
+    "timeDay": 2102,
+    "timeWeek": 1138,
+    "timeMonth": 788,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2025-09-04": 271,
+      "2025-09-04": 234,
       "2025-09-05": 316,
       "2025-09-07": 53,
       "2025-09-08": 60,
@@ -964,7 +964,8 @@
       "2026-07-05": 316,
       "2026-07-13": 783,
       "2026-07-12": 352,
-      "2026-07-16": 178
+      "2026-07-16": 178,
+      "2026-07-17": 0
     }
   }
 ]
