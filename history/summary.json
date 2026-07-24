@@ -88,7 +88,7 @@
     "uptimeDay": "49.00%",
     "uptimeWeek": "37.16%",
     "uptimeMonth": "38.35%",
-    "uptimeYear": "76.48%",
+    "uptimeYear": "76.47%",
     "time": 404,
     "timeDay": 176,
     "timeWeek": 277,
@@ -234,7 +234,7 @@
       "2026-07-21": 671,
       "2026-07-22": 698,
       "2026-07-23": 735,
-      "2026-07-24": 133
+      "2026-07-24": 218
     }
   },
   {
@@ -347,14 +347,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.99%",
+    "uptimeYear": "35.97%",
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2026-07-24": 133,
+      "2026-07-24": 218,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -601,14 +601,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.99%",
+    "uptimeYear": "35.97%",
     "time": 1339,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2026-07-24": 133,
+      "2026-07-24": 218,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -850,20 +850,20 @@
     "url": "https://caosbi.ayi-asociados.com/",
     "icon": "https://icons.duckduckgo.com/ip3/caosbi.ayi-asociados.com.ico",
     "slug": "caosbi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.89%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "84.88%",
     "uptimeMonth": "87.94%",
-    "uptimeYear": "93.34%",
-    "time": 1509,
-    "timeDay": 528,
-    "timeWeek": 1053,
-    "timeMonth": 836,
-    "timeYear": 1661,
+    "uptimeYear": "93.35%",
+    "time": 1513,
+    "timeDay": 2046,
+    "timeWeek": 1232,
+    "timeMonth": 896,
+    "timeYear": 1664,
     "dailyMinutesDown": {
-      "2025-09-04": 122,
       "2025-09-05": 316,
+      "2025-09-04": 75,
       "2025-09-07": 53,
       "2025-09-08": 60,
       "2025-09-14": 47,
@@ -980,7 +980,8 @@
       "2026-07-17": 131,
       "2026-07-20": 880,
       "2026-07-19": 355,
-      "2026-07-21": 157
+      "2026-07-21": 157,
+      "2026-07-24": 0
     }
   }
 ]
