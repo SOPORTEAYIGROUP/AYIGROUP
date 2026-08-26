@@ -229,7 +229,7 @@
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-25": 664,
-      "2026-08-26": 216
+      "2026-08-26": 259
     }
   },
   {
@@ -237,17 +237,17 @@
     "url": "https://ayi.academy/",
     "icon": "https://icons.duckduckgo.com/ip3/ayi.academy.ico",
     "slug": "ayi-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "97.05%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "97.04%",
     "time": 2087,
-    "timeDay": 2429,
-    "timeWeek": 1708,
-    "timeMonth": 1540,
-    "timeYear": 2059,
+    "timeDay": 2070,
+    "timeWeek": 1668,
+    "timeMonth": 1534,
+    "timeYear": 2057,
     "dailyMinutesDown": {
       "2025-09-04": 40,
       "2025-09-05": 75,
@@ -280,7 +280,7 @@
       "2026-04-11": 1440,
       "2026-04-10": 1359,
       "2026-08-15": 30,
-      "2026-08-26": 1
+      "2026-08-26": 43
     }
   },
   {
@@ -342,14 +342,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.93%",
+    "uptimeYear": "26.92%",
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2026-08-26": 216,
+      "2026-08-26": 259,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -625,18 +625,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/interconomy.biz.ico",
     "slug": "web-interconomy",
     "status": "down",
-    "uptime": "81.32%",
+    "uptime": "81.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.93%",
+    "uptimeYear": "26.92%",
     "time": 1351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2026-08-26": 216,
+      "2026-08-26": 259,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
