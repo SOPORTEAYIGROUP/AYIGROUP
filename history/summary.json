@@ -77,12 +77,12 @@
     "uptime": "94.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.88%",
+    "uptimeMonth": "46.91%",
     "uptimeYear": "75.68%",
     "time": 402,
     "timeDay": 1046,
     "timeWeek": 994,
-    "timeMonth": 358,
+    "timeMonth": 362,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2026-05-04": 701,
@@ -237,8 +237,8 @@
     "uptime": "98.54%",
     "uptimeDay": "50.98%",
     "uptimeWeek": "29.78%",
-    "uptimeMonth": "79.38%",
-    "uptimeYear": "95.35%",
+    "uptimeMonth": "79.21%",
+    "uptimeYear": "95.33%",
     "time": 1884,
     "timeDay": 413,
     "timeWeek": 339,
@@ -285,7 +285,7 @@
       "2026-09-28": 706,
       "2026-09-27": 1440,
       "2026-09-26": 1429,
-      "2026-09-29": 160
+      "2026-09-29": 235
     }
   },
   {
@@ -347,14 +347,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.63%",
+    "uptimeYear": "17.61%",
     "time": 1222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2026-09-29": 160,
+      "2026-09-29": 236,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -668,14 +668,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.63%",
+    "uptimeYear": "17.61%",
     "time": 1360,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2026-09-29": 160,
+      "2026-09-29": 236,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -988,8 +988,8 @@
     "uptime": "97.25%",
     "uptimeDay": "33.57%",
     "uptimeWeek": "78.79%",
-    "uptimeMonth": "41.78%",
-    "uptimeYear": "87.23%",
+    "uptimeMonth": "41.61%",
+    "uptimeYear": "87.21%",
     "time": 1623,
     "timeDay": 7030,
     "timeWeek": 2409,
@@ -1140,7 +1140,7 @@
       "2026-09-06": 268,
       "2026-09-28": 1116,
       "2026-09-27": 298,
-      "2026-09-29": 0
+      "2026-09-29": 76
     }
   }
 ]
